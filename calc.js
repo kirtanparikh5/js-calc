@@ -1,4 +1,6 @@
-
+let add = function(a,b){
+    return a+b;
+}
 
 let sub = function(a,b){
     return a-b;
