@@ -1,6 +1,4 @@
-let add = function(a,b){
-    return a+b;
-}
+
 
 
 let sum = add(10,20);
